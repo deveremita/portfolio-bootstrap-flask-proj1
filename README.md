@@ -1,4 +1,4 @@
-# Projeto 1: Portfólio Responsivo com Bootstrap e Flask ( apenas um estudo para projetos posteriores ) | Estudos em Python📚💻
+# Projeto 1 em Flask e bootstrap: Portfólio Responsivo ( apenas um estudo para projetos posteriores ) | Estudos em Python📚💻
 
 ***Esse projeto é oriundo de um curso em vídeo do canal:[Thi Code](https://www.youtube.com/@thi_code)*** 
 
